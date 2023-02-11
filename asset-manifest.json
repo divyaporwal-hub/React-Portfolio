@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.ef883ebc.css",
+    "main.js": "/React-Portfolio/static/js/main.32101f2d.js",
+    "static/media/moon.png": "/React-Portfolio/static/media/moon.b5c0116151389640038a.png",
+    "static/media/weather.jpg": "/React-Portfolio/static/media/weather.7c0ee7f7e95598455135.jpg",
+    "static/media/quora.jpg": "/React-Portfolio/static/media/quora.60f82fcae5554de7f026.jpg",
+    "static/media/quiz.png": "/React-Portfolio/static/media/quiz.83866b16a5087ae6974e.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.ef883ebc.css.map": "/React-Portfolio/static/css/main.ef883ebc.css.map",
+    "main.32101f2d.js.map": "/React-Portfolio/static/js/main.32101f2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef883ebc.css",
+    "static/js/main.32101f2d.js"
+  ]
+}
