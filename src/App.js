@@ -32,7 +32,7 @@ function App() {
           <div className="App__main-page-content"></div>
     <Routes>
     
-      <Route index path="/home" element ={<Home/>}></Route>
+      <Route index path="/React-Portfolio" element ={<Home/>}></Route>
       <Route path="/resume" element ={<Resume/>}></Route>
       <Route path="/skills" element ={<Skills/>}></Route>
       <Route path="/about" element ={<About/>}></Route>
